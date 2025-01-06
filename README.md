@@ -36,4 +36,4 @@ Lastly, save the path to your model and load it in this directory. Next open the
 
 `import os`
 
-Note: Each folder 'Final-RasPi-Arduino' and 'Final-Data-Collection' has two files, one for filtered data and for non filtered emg data. Choose teh one most suited for your scenario.
+Note: Each folder 'Final-RasPi-Arduino' and 'Final-Data-Collection' has two files, one for filtered data and for non filtered emg data. Choose the one most suited for your scenario.
