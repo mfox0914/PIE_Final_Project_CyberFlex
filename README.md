@@ -14,16 +14,16 @@ Lastly, save the path to your model and load it in this directory. Next open the
 
 
 ## External Software Dependencies
-`import torch
-import numpy as np
-import serial
-import torch.nn as nn
-import torch.nn.functional as F
-import time
-import joblib
-from sklearn.preprocessing import StandardScaler
-from scipy.signal import butter, filtfilt, detrend
-import pandas as pd
+`import torch  
+import numpy as np  
+import serial  
+import torch.nn as nn  
+import torch.nn.functional as F  
+import time  
+import joblib  
+from sklearn.preprocessing import StandardScaler  
+from scipy.signal import butter, filtfilt, detrend  
+import pandas as pd  
 import os`
 
 Note: Each folder 'Final-RasPi-Arduino' and 'Final-Data-Collection' has two files, one for filtered data and for non filtered emg data. Choose teh one most suited for your scenario.
